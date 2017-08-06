@@ -1,0 +1,12 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "sourceMap": true,
+        "watch": true,
+        "typeRoots": [
+            "node_modules/@types"
+        ]
+    }
+}
